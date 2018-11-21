@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: estudando
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: leonnylino
+Implementation-Vendor-Id: br.com.apirest
+Build-Jdk: 1.8.0_181
+Implementation-URL: http://projects.spring.io/spring-boot/estudando/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
